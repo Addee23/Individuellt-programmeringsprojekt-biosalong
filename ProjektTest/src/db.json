@@ -1,0 +1,49 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "title": "Inception",
+      "year": 2010,
+      "genre": "Sci-Fi",
+      "rating": 8.8,
+      "director": "Christopher Nolan",
+      "image": "https://m.media-amazon.com/images/I/51oDtsvUcsL._AC_.jpg"
+    },
+    {
+      "id": 2,
+      "title": "The Matrix",
+      "year": 1999,
+      "genre": "Action",
+      "rating": 8.7,
+      "director": "The Wachowskis",
+      "image": "https://m.media-amazon.com/images/I/51EG732BV3L._AC_.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Interstellar",
+      "year": 2014,
+      "genre": "Adventure",
+      "rating": 8.6,
+      "director": "Christopher Nolan",
+      "image": "https://m.media-amazon.com/images/I/71n58jKXwXL._AC_SL1188_.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Avatar",
+      "year": 2009,
+      "genre": "Fantasy",
+      "rating": 7.8,
+      "director": "James Cameron",
+      "image": "https://m.media-amazon.com/images/I/61OUGpUfAyL._AC_SY679_.jpg"
+    },
+    {
+      "id": 5,
+      "title": "The Dark Knight",
+      "year": 2008,
+      "genre": "Action",
+      "rating": 9.0,
+      "director": "Christopher Nolan",
+      "image": "https://m.media-amazon.com/images/I/51k0qa6qWKL._AC_.jpg"
+    }
+  ]
+}

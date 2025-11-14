@@ -1,0 +1,196 @@
+{
+  "movies": [
+    {
+      "id": "2",
+      "name": "The Mummy Returns",
+      "price": 50
+    },
+    {
+      "id": "3",
+      "name": "Jumanji",
+      "price": 70
+    },
+    {
+      "id": "4",
+      "name": "Rampage",
+      "price": 40
+    },
+    {
+      "id": "5",
+      "name": "TestMovie",
+      "price": 120
+    },
+    {
+      "id": "6",
+      "name": "Megan",
+      "price": 120
+    },
+    {
+      "id": "1761663980436",
+      "name": "Fast and furious",
+      "price": 100
+    }
+  ],
+  "bookings": [
+    {
+      "id": "2de4",
+      "movieId": "6",
+      "seats": [
+        22,
+        30
+      ],
+      "name": "Adina",
+      "phone": "0701256365",
+      "createdAt": "2025-10-28T13:18:41.454Z"
+    },
+    {
+      "id": "7fe2",
+      "movieId": "2",
+      "seats": [
+        0,
+        21,
+        20,
+        27,
+        26,
+        18,
+        10,
+        11,
+        12,
+        4
+      ],
+      "name": "Anders",
+      "phone": "0736569874",
+      "createdAt": "2025-10-28T13:19:17.933Z"
+    },
+    {
+      "id": "622a",
+      "movieId": "6",
+      "seats": [
+        1,
+        9
+      ],
+      "name": "Olle",
+      "phone": "0736956874",
+      "createdAt": "2025-10-28T14:35:39.993Z"
+    },
+    {
+      "id": "ac98",
+      "movieId": "3",
+      "seats": [
+        1,
+        9,
+        11,
+        13,
+        14,
+        21
+      ],
+      "name": "Lisa",
+      "phone": "0736598452",
+      "createdAt": "2025-10-28T14:53:49.057Z"
+    },
+    {
+      "id": "6d47",
+      "movieId": "3",
+      "seats": [
+        25,
+        33,
+        34,
+        35,
+        27,
+        26
+      ],
+      "name": "Alex",
+      "phone": "0739856748",
+      "createdAt": "2025-10-28T14:54:28.506Z"
+    },
+    {
+      "id": "47da",
+      "movieId": "3",
+      "seats": [
+        36,
+        7,
+        31,
+        39,
+        19,
+        17
+      ],
+      "name": "Nabil",
+      "phone": "0736598457",
+      "createdAt": "2025-10-28T14:57:39.029Z"
+    },
+    {
+      "id": "ea4c",
+      "movieId": "4",
+      "seats": [
+        3,
+        12,
+        20,
+        9,
+        17
+      ],
+      "name": "Nabil",
+      "phone": "0736598741",
+      "createdAt": "2025-10-29T12:59:13.990Z"
+    },
+    {
+      "id": "e50f",
+      "movieId": "5",
+      "seats": [
+        14,
+        22,
+        20,
+        28,
+        36,
+        35,
+        34,
+        26,
+        18,
+        10,
+        2,
+        9,
+        17,
+        16,
+        24,
+        33
+      ],
+      "name": "Gabriel",
+      "phone": "0736596352",
+      "createdAt": "2025-10-29T12:59:41.724Z"
+    },
+    {
+      "id": "2ed4",
+      "movieId": "1761663980436",
+      "seats": [
+        12,
+        19,
+        18,
+        10
+      ],
+      "name": "Anna",
+      "phone": "0705263985",
+      "createdAt": "2025-10-29T13:00:01.103Z"
+    },
+    {
+      "id": "071e",
+      "movieId": "6",
+      "seats": [
+        2,
+        3,
+        4
+      ],
+      "name": "Nabil",
+      "phone": "+46708382209",
+      "createdAt": "2025-10-29T13:05:45.238Z"
+    },
+    {
+      "id": "1e7a",
+      "movieId": "5",
+      "seats": [
+        4
+      ],
+      "name": "Olle",
+      "phone": "0736760934",
+      "createdAt": "2025-11-13T13:28:44.049Z"
+    }
+  ]
+}
