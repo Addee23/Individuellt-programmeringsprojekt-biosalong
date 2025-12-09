@@ -4,19 +4,30 @@ Ett komplett bokningssystem för en biosalong där användaren kan välja film, 
 
 Funktioner:
 • Filmval med dynamisk uppdatering av pris och platstillgänglighet
+
 • Interaktiv stolsöversikt (lediga/upptagna/valda platser)
+
 • Automatisk prisberäkning baserat på valda stolar
+
 • Formulär med validering via Formik
+
 • Bokningar sparas i JSON-server
+
 • Adminpanel med CRUD för filmer
+
 • Routing mellan användarvy och adminpanel med React Router
 
 Tekniker:
 • React (Vite)
+
 • JavaScript (ES Modules)
+
 • JSON-server (simulerad backend)
+
 • Formik (validering)
+
 • React Router
+
 • CSS
 
 Installation och körning:
