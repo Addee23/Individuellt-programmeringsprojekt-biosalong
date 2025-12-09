@@ -3,6 +3,7 @@ Biosalong – Bokningssystem (React + JSON-server)
 Ett komplett bokningssystem för en biosalong där användaren kan välja film, se lediga och bokade stolar, klicka för att välja platser och boka biljetter via ett validerat formulär. Projektet innehåller även en adminpanel med CRUD-hantering för filmer och bokningar. Applikationen byggdes först i ren JavaScript och utvecklades sedan vidare i React för tydligare struktur och komponentbaserad logik.
 
 Funktioner:
+
 • Filmval med dynamisk uppdatering av pris och platstillgänglighet
 
 • Interaktiv stolsöversikt (lediga/upptagna/valda platser)
@@ -17,7 +18,9 @@ Funktioner:
 
 • Routing mellan användarvy och adminpanel med React Router
 
+
 Tekniker:
+
 • React (Vite)
 
 • JavaScript (ES Modules)
